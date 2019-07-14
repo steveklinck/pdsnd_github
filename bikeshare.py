@@ -202,7 +202,7 @@ def user_stats(df):
 def display_rows(df):
         x = 0
         while True:
-            display_stats = input("Would you like to load 5 rows of individual trip data? Enter yes or no\n")
+            display_stats = input("Would you like to load 5 rows of individual trip data? Please enter yes or no\n")
             display_stats = display_stats.lower()
             if display_stats == 'yes':
                 print(df[x : x +5])
