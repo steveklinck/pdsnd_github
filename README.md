@@ -52,9 +52,7 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 This project was completed for Udacity's Programming for Data Science Nanodegree program. Project template and instructions provided by Udacity.
