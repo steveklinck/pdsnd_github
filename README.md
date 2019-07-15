@@ -1,5 +1,5 @@
 ## Date created
-July 14, 2019
+July 2019
 
 ## Explore US Bikeshare Data
 
