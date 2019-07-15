@@ -57,4 +57,6 @@ This project computes the following statistics:
 - washington.csv
 
 ## Credits
-This project was completed for Udacity's Programming for Data Science Nanodegree program. Project template and instructions provided by [Udacity] (https://www.udacity.com).
+This project was completed for Udacity's Programming for Data Science Nanodegree program. Project template and instructions provided by [Udacity].
+
+[Udacity]: https://www.udacity.com
